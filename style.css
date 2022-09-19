@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    margin: 0;
+    font-size: 23px;
+}
+
+#start,#objectStatus,#status{
+    font-size: 18px;
+}
+
+#copy_footer{
+    width: 100%;
+    background-color: gray;
+    line-height: 2;
+    color: aliceblue;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+}
+
+canvas{
+    box-shadow: 10px 5px 5px gray;
+    border-radius: 25px;
+    border: 2px solid white;
+    margin-top: 130px;
+}
